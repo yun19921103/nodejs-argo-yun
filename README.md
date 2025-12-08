@@ -1,4 +1,5 @@
-<div align="center">
+
+将我的隧道信息用于此处，制作成一个docker镜像（如右侧cjip软件包），藉此可部署3个纯净的住宅IP订阅节点！
 
 # nodejs-argo隧道代理
 
